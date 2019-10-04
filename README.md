@@ -4,6 +4,14 @@ An application created with Twilio and the Search Tweets Python wrapper that sen
 ## Using this code
 Be sure to check out this corresponding [blog post](https://dev.to/twitterdev/how-i-solved-my-nyc-parking-problem-with-python-the-search-tweets-api-and-twilio-1chp) which walks you through how to get started with this code.
 
+## Resources
+- [Apply for Twitter developer account](https://developer.twitter.com/en/apply-for-access)
+- [Twitter Developer apps page](https://developer.twitter.com/en/apps)
+- [Using Twilio Python](https://www.twilio.com/blog/2016/10/how-to-send-an-sms-with-python-using-twilio.html)
+- [Setting up a cron job](https://askubuntu.com/questions/2368/how-do-i-set-up-a-cron-job)
+- [Setting up a Ditgital Ocean](https://www.digitalocean.com/docs/droplets/how-to/create/)
+- [Keyword arguments](https://treyhunner.com/2018/04/keyword-arguments-in-python/)
+
 ## Support
 Create a [new issue](https://github.com/twitterdev/getting-started-with-r/issues) on GitHub.
 

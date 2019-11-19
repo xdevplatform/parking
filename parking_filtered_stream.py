@@ -13,8 +13,6 @@ rules_url = "https://api.twitter.com/labs/1/tweets/stream/filter/rules"
 
 sample_rules = [{"value": "from: nycasp"}]
 
-# Gets a bearer token
-
 
 class BearerTokenAuth(AuthBase):
     def __init__(self, consumer_key, consumer_secret):
@@ -104,13 +102,7 @@ def setup_rules(auth):
     set_rules(sample_rules, auth)
 
 
-# Comment this line if you already setup rules and want to keep them
 setup_rules(bearer_token)
-
-# Listen to the stream.
-# This reconnection logic will attempt to reconnect when a disconnection is detected.
-# To avoid rate limites, this logic implements exponential backoff, so the wait time
-# will increase if the client cannot reconnect to the stream.
 
 
 def parking_logic(pl_text, client):
@@ -134,3 +126,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

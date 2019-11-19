@@ -1,8 +1,10 @@
 # Parking
-An application created with Twilio and the [Search Tweets Python](https://github.com/twitterdev/search-tweets-python) wrapper that sends a text message whenever you don't need to move your car based on NYC's alternate side of the street parking restrictions. This code was created by [Jessica Garson](https://twitter.com/jessicagarson). 
+An application created with Twilio and the Twitter API and sends a text message whenever you don't need to move your car based on NYC's alternate side of the street parking restrictions. This code was created by [Jessica Garson](https://twitter.com/jessicagarson). 
 
 ## Using this code
-Be sure to check out this corresponding [blog post](https://dev.to/twitterdev/how-i-solved-my-nyc-parking-problem-with-python-the-search-tweets-api-and-twilio-1chp) which walks you through how to get started with this code.
+The Search Tweets version of this code uses the [Search Tweets Python](https://github.com/twitterdev/search-tweets-python) wrapper. Be sure to check out this corresponding [blog post](https://dev.to/twitterdev/how-i-solved-my-nyc-parking-problem-with-python-the-search-tweets-api-and-twilio-1chp) which walks you through how to get started with this code.
+
+The Filtered Stream version of this code is adapted from our [sample code](t.co/filtered-stream-sample). You can find out more about this endpoint in [our documentation](https://developer.twitter.com/en/docs/labs/filtered-stream/overview). 
 
 ## Resources
 - [Apply for Twitter developer account](https://developer.twitter.com/en/apply-for-access)

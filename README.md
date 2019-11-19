@@ -4,7 +4,7 @@ An application created with Twilio and the Twitter API and sends a text message 
 ## Using this code
 The Search Tweets version of this code uses the [Search Tweets Python](https://github.com/twitterdev/search-tweets-python) wrapper. Be sure to check out this corresponding [blog post](https://dev.to/twitterdev/how-i-solved-my-nyc-parking-problem-with-python-the-search-tweets-api-and-twilio-1chp) which walks you through how to get started with this code.
 
-The Filtered Stream version of this code is adapted from our [sample code](t.co/filtered-stream-sample). You can find out more about this endpoint in [our documentation](https://developer.twitter.com/en/docs/labs/filtered-stream/overview). 
+The Filtered Stream version of this code is adapted from our [sample code](t.co/filtered-stream-sample). You can find out more about this endpoint in [our documentation](https://developer.twitter.com/en/docs/labs/filtered-stream/overview). You will need to [sign up for Labs](t.co/labs) to use this code. 
 
 ## Resources
 - [Apply for Twitter developer account](https://developer.twitter.com/en/apply-for-access)

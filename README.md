@@ -11,7 +11,7 @@ The Filtered Stream version of this code is adapted from our [sample code](t.co/
 - [Twitter Developer apps page](https://developer.twitter.com/en/apps)
 - [Using Twilio and Python](https://www.twilio.com/blog/2016/10/how-to-send-an-sms-with-python-using-twilio.html)
 - [Setting up a cron job](https://askubuntu.com/questions/2368/how-do-i-set-up-a-cron-job)
-- [Setting up a Ditgital Ocean droplet](https://www.digitalocean.com/docs/droplets/how-to/create/)
+- [Setting up a Digital Ocean droplet](https://www.digitalocean.com/docs/droplets/how-to/create/)
 - [Keyword arguments](https://treyhunner.com/2018/04/keyword-arguments-in-python/)
 
 ## Support

@@ -1,10 +1,12 @@
 # Parking
-An application created with Twilio and the Twitter API and sends a text message whenever you don't need to move your car based on NYC's alternate side of the street parking restrictions. This code was created by [Jessica Garson](https://twitter.com/jessicagarson). 
+An application created with Twilio and the Twitter API and sends a text message whenever you don't need to move your car based on NYC's alternate side of the street parking restrictions. This code was created by [Jessica Garson](https://twitter.com/jessicagarson).
 
 ## Using this code
 The Search Tweets version of this code uses the [Search Tweets Python](https://github.com/twitterdev/search-tweets-python) wrapper. Be sure to check out this corresponding [blog post](https://dev.to/twitterdev/how-i-solved-my-nyc-parking-problem-with-python-the-search-tweets-api-and-twilio-1chp) which walks you through how to get started with this code.
 
-The Filtered Stream version of this code is adapted from our [sample code](t.co/filtered-stream-sample). You can find out more about this endpoint in [our documentation](https://developer.twitter.com/en/docs/labs/filtered-stream/overview). You will need to [sign up for Labs](t.co/labs) to use this code. 
+The Filtered Stream version of this code is adapted from our [sample code](t.co/filtered-stream-sample). You can find out more about this endpoint in [our documentation](https://developer.twitter.com/en/docs/labs/filtered-stream/overview). You will need to [sign up for Labs](t.co/labs) to use this code.
+
+The Recent Search version of this code uses the [Labs preview for searching for Tweets for the past 7 days .](https://developer.twitter.com/en/docs/labs/recent-search/overview)
 
 ## Resources
 - [Apply for Twitter developer account](https://developer.twitter.com/en/apply-for-access)
@@ -23,6 +25,6 @@ We feel that a welcoming community is important and we ask that you follow Twitt
 in all interactions with the community.
 
 ## License
-Copyright 2019 Twitter, Inc.
+Copyright 2020 Twitter, Inc.
 
 Licensed under the Apache License, Version 2.0: https://www.apache.org/licenses/LICENSE-2.0
